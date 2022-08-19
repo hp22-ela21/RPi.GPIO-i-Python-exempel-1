@@ -20,6 +20,6 @@ def main():
          led1.off()
    return
 
-# Calling function main to start the program if this is the startup file:
+# Calling the main function to start the program if this is the startup file:
 if __name__ == "__main__":
    main()
